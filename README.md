@@ -1,2 +1,1 @@
-# IoTTestnetAutomationSystems
-Advanced IoTTestnetAutomationSystems project
+.
